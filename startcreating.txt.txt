@@ -1,0 +1,1 @@
+Hello, starting git bash form this file
